@@ -1,0 +1,17 @@
+.square {
+  background-color: #444;
+  color: white;
+  border: 1px solid #999;
+  padding: 0;
+  padding: '2rem';
+  font-size: 84px;
+  text-align: center;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.square:active {
+  outline: none;
+  background-color: #999;
+}
+
